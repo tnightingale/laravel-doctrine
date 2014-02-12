@@ -12,7 +12,7 @@
     "require": {
         "php": ">=5.3.0",
         "illuminate/support": "4.*",
-        "doctrine/orm": "~2.4.0",
+        "doctrine/orm": "56cbcec13dbf880802c8a4c8754be680e4c7dfd9",
         "doctrine/migrations": "1.0.*@dev"
     },
     "autoload": {
